@@ -1,0 +1,1 @@
+en esta carpeta se guardan los pesos y la info (acuracy y loss) de los steps
